@@ -9,7 +9,6 @@ The moment you open any forum thread, the extension silently scans and caches al
 Completed pages are cached locally in IndexedDB, making subsequent visits instantaneous.
 
 Player ISO (Isolate) & Keyword Search:
-
 Select any player from the dropdown to view all of their posts in one clean popup modal.
 Filter ISO results or search queries by specific game days (Day 1, Day 2, etc.).
 Fast keyword search pre-computes matches so filtering is instantaneous.
