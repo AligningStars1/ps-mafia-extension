@@ -1,4 +1,5 @@
 🕵️ PS-Mafia ISO, Search & Multi-Quote Extension
+
 A powerful, all-in-one companion Chrome extension custom-built for ps-mafia.proboards.com. Designed specifically for Mafia players and hosts, this tool restores essential forum features, streamlines player isolation (ISO) views, manages multi-quotes with precise BBCode formatting, tracks game days, provides a built-in folder-based note-taking system, and keeps threads live without manual reloads.
 
 🌟 Key Features & What It Does
