@@ -44,7 +44,7 @@ Uncheck any feature you wish to disable (e.g., Multi-Quote, Notes, Live Refresh)
 
 🚀 Installation Instructions
 
-Download the latest proboards-search-extension-v29.zip release by going on to <> and download zip.
+Download the latest proboards-search-extension-v29.zip release by going on to <> Code and download zip.
 
 Extract/unzip the file into a folder on your computer.
 
